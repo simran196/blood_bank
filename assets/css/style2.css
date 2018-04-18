@@ -1,0 +1,60 @@
+body{
+	background-color:#ecf0f5;
+}
+.header
+{
+	background-color:#7f8c8d;
+	padding:10px;
+	color:white;
+}
+
+.admin
+{
+	float:right;
+}
+
+
+
+.footer
+{
+	background-color:#7f8c8d;
+	padding:20px;
+	color:white;
+	font-size:18px;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+}
+.inputvalues
+{
+	width:500px;
+	border:2px solid ;
+	border-radius:4px;
+	margin:8px 0;
+	outline:none;
+	padding:6px;
+	border-color:#718093;
+	height:50px;
+	
+}
+.log
+{
+	text-align:center;
+	font-size:22px;
+}
+.header
+{
+	background-color:#3c8dbc;
+	height:15%;
+	text-align:center;	
+}
+.myform
+{
+	padding-left:40%;
+	font-size:18px;
+}
+.login_btn
+{
+	width:10%;
+	height:30px;
+}
